@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aasim07
 - 👀 I’m interested in data Science
-- 🌱 I’m currently learning Deep Learning For Pytorch
+- 🌱 I’m currently learning Data visualisation using tableau
 - 💞️ I’m looking to collaborate on data Science Projects
 - 📫 How to reach me https://www.linkedin.com/in/sayyadaasim
 
